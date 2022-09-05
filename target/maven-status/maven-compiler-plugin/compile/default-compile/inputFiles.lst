@@ -1,0 +1,7 @@
+/home/azambik/Documents/code/repos/zed/src/main/java/com/zadformdb/zedforumdb/ServletInitializer.java
+/home/azambik/Documents/code/repos/zed/src/main/java/com/zadformdb/zedforumdb/Models/UserAccount.java
+/home/azambik/Documents/code/repos/zed/src/main/java/com/zadformdb/zedforumdb/ZedforumdbApplication.java
+/home/azambik/Documents/code/repos/zed/src/main/java/com/zadformdb/zedforumdb/Controllers/UserAccountController.java
+/home/azambik/Documents/code/repos/zed/src/main/java/com/zadformdb/zedforumdb/Models/UserAccountRequest.java
+/home/azambik/Documents/code/repos/zed/src/main/java/com/zadformdb/zedforumdb/Repositories/UserAccountRepository.java
+/home/azambik/Documents/code/repos/zed/src/main/java/com/zadformdb/zedforumdb/services/UserAccountSevices.java

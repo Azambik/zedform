@@ -22,7 +22,7 @@ import com.zadformdb.zedforumdb.Models.UserAccountRequest;
 import com.zadformdb.zedforumdb.services.UserAccountSevices;
 
 
-@CrossOrigin(origins = "http://localhost:8081")
+@CrossOrigin(origins = "http://localhost:8080")
 @RestController
 @RequestMapping("/api/userAccount")
 public class UserAccountController {

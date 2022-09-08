@@ -1,1 +1,46 @@
-<p>create-account works!</p>
+<div>
+<span class="p-float-label">
+    <input id="float-input" 
+        type="text"  
+        pInputText
+        [(ngModel)]="userAccount.firstName"> 
+    <label for="float-input">First name</label>
+</span>
+<span class="p-float-label">
+    <input id="float-input" 
+        type="text"  
+        pInputText
+        [(ngModel)]="userAccount.lastName"> 
+    <label for="float-input">Last Name</label>
+</span>
+<span class="p-float-label">
+    <input id="float-input" 
+        type="text"  
+        pInputText
+        [(ngModel)]="userAccount.email"> 
+    <label for="float-input">Email</label>
+</span>
+<span class="p-float-label">
+    <input id="float-input" 
+        type="text"  
+        pInputText
+        [(ngModel)]="userAccount.password"> 
+    <label for="float-input">Password</label>
+</span>
+<span class="p-float-label">
+    <input id="float-input" 
+        type="text"  
+        pInputText
+        [(ngModel)]="userAccount.phoneNumber"> 
+    <label for="float-input">phoneNumber</label>
+</span>
+
+<button pButton 
+    class="p-button-secondary"
+    type="button" 
+    label="Submit" 
+    class="p-button-text"
+    (click)="test()">
+</button>
+
+</div>
